@@ -11,4 +11,4 @@ terminate prematurely.
 2. The program will prompt you to enter the paths of the `ONIM` files that you want to fix. After entering a path, press ENTER and either enter the next path or press ENTER again to
 fix the files.
 
-3. The will list the paths of the files being fixed and finally show a summary of the number of files that were fixed, if the fix was successful. If not, an error will be shown.
+3. The program will list the paths of the files being fixed and finally show a summary of the number of files that were fixed, if the fix was successful. If not, an error will be shown.
